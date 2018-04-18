@@ -15,3 +15,5 @@ either with a PCB for the backpack board or just pushing things in a bit more. t
 5: Power supply and connectors to suit
 6: Proto board PCB
 7: relevant connectors
+
+note: 5v regulator used was a 7805, a .47uf electrolytic was used across the input (pin 1 Vin and pin 2 ground, the negative side of the cap going to ground). 
